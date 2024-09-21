@@ -128,7 +128,7 @@ int main() {
     res.print();
     cout << '\n' << (str == res) << endl;
     cout << str[1] << endl;
-    cout << "hell" << endl;
-    cout << "sos";
+    cout << "world" << endl;
+    cout << "hell";
     return 0;
 }
